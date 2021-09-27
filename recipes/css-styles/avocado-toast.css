@@ -1,0 +1,32 @@
+/*style.css*/
+
+div {
+  background-color: #adf724;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
+
+.avocado-color {
+  font-family: Times New Roman, serif;
+  font-size: 40px;
+  background-color: #65c400;
+  color: #693425;
+}
+
+.medium {
+  font-size: 30px; 
+}
+
+.little {
+  font-size: 25px;
+}
+
+.pit {
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+  color: #693425;
+  background-color: #ffff83;
+}
