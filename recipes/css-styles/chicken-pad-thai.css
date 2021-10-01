@@ -1,0 +1,33 @@
+/*style.css*/
+
+img {
+  height: auto;
+  width: 600px;
+}
+
+div {
+  background-color: #ffeecf;
+}
+
+.header {
+  font-family: Times New Roman, serif;
+  font-size: 40px;
+  background-color: #f7cf92;
+}
+
+.secondary {
+  font-size: 35px;
+}
+
+.tertiary {
+  font-size: 35px;
+}
+
+.quat {
+  font-size:  25px;
+}
+
+.list {
+  font-family: Verdana, sans-serif;
+  background-color: #ffeecf;
+}
