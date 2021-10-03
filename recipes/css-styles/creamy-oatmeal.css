@@ -1,0 +1,38 @@
+/*style.css*/
+
+body {
+	background-color: #D1C0A2;
+}
+
+p {
+  font-family: sans-serif;
+  background-color: #C6782D;
+  color: #401F18;
+}
+
+.header {
+  font-family: serif;
+  font-size: 40px;
+  color: #4D211E;
+}
+
+.main {
+  background-color: #B77224;
+}
+
+.secondary {
+  background-color: #B44F25;
+  font-size: 35px;
+}
+
+.tertiary {
+  background-color: #B44F25;
+  font-size: 25px;
+}
+
+.list {
+  font-family: sans-serif;
+  background-color: #C6782D;
+  color: #401F18;
+}
+
