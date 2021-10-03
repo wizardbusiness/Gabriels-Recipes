@@ -1,0 +1,30 @@
+/*style.css*/
+
+body {
+  background-color: #ffeecf
+}
+
+p {
+  font-family: sans-serif;
+  background-color: #d8a882;
+}
+.header {
+  font-family: Times New Roman, serif;
+  background-color: #7a5823;
+  color: #2e2523;
+  font-size: 40px;
+}
+
+.secondary {
+  font-size: 35px;
+}
+
+.tertiary {
+  background-color: #9e7a43;
+  font-size: 25px;
+}
+
+.list {
+  font-family: Verdana, sans-serif;
+  background-color: #d8a882;
+}
